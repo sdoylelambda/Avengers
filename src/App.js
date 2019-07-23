@@ -8,7 +8,7 @@ import Avenger from "./components/Avengers";
 
 import avengersData from "./data/avengersData"
 
-import "./index.css";
+import "./App.css";
 import MatchPathInfo from "./components/MatchPathInfo";
 
 function App() {
